@@ -102,9 +102,5 @@ class UNet(nn.Module):
                 m.weight.data.fill_(1)
                 m.bias.data.zero_()
 
-#作者：jdefla 
-#来源：CSDN 
-#原文：https://blog.csdn.net/u014722627/article/details/60883185 
-#版权声明：本文为博主原创文章，转载请附上博文链接！
 
 
